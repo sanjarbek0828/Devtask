@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title": "Mening vazifalarim",
+    "today": "Bugun",
+    "upcoming": "Kelgusi",
+    "overdue": "Muddati o'tgan",
+    "noDate": "Sanasiz",
+    "search": "Vazifalarni qidirish...",
+    "empty": "Vazifalar topilmadi"
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "theme": "Mavzu",
+    "language": "Til",
+    "export": "Ma'lumotlarni eksport qilish",
+    "import": "Ma'lumotlarni import qilish",
+    "clearAll": "Barcha ma'lumotlarni o'chirish"
+  },
+  "task": {
+    "add": "Vazifa qo'shish",
+    "edit": "Tahrirlash",
+    "title": "Sarlavha",
+    "description": "Tavsif",
+    "priority": "Ustuvorlik",
+    "dueDate": "Muddat",
+    "reminder": "Eslatma",
+    "save": "Saqlash",
+    "subtasks": "Quyi vazifalar"
+  },
+  "priorities": {
+    "low": "Past",
+    "medium": "O'rta",
+    "high": "Yuqori"
+  }
+}

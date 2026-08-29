@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title": "My Tasks",
+    "today": "Today",
+    "upcoming": "Upcoming",
+    "overdue": "Overdue",
+    "noDate": "No Date",
+    "search": "Search tasks...",
+    "empty": "No tasks found"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "export": "Export Data",
+    "import": "Import Data",
+    "clearAll": "Clear All Data"
+  },
+  "task": {
+    "add": "Add Task",
+    "edit": "Edit Task",
+    "title": "Title",
+    "description": "Description",
+    "priority": "Priority",
+    "dueDate": "Due Date",
+    "reminder": "Reminder",
+    "save": "Save",
+    "subtasks": "Subtasks"
+  },
+  "priorities": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  }
+}
